@@ -30,7 +30,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold">Email Us</h3>
-                      <p className="text-muted-foreground">hello@tiai.com</p>
+                      <p className="text-muted-foreground">info@tiai.com</p>
                     </div>
                   </div>
                 </CardContent>
@@ -44,7 +44,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold">Call Us</h3>
-                      <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                      <p className="text-muted-foreground">+966 (50) 088-1999</p>
                     </div>
                   </div>
                 </CardContent>
