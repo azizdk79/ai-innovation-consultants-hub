@@ -49,23 +49,6 @@ const Contact = () => {
                   </div>
                 </CardContent>
               </Card>
-
-              <Card className="border-ai-magenta/20 hover:shadow-ai transition-all duration-300">
-                <CardContent className="p-6">
-                  <div className="flex items-center mb-4">
-                    <div className="w-12 h-12 bg-gradient-ai rounded-lg flex items-center justify-center mr-4">
-                      <MapPin className="h-6 w-6 text-white" />
-                    </div>
-                    <div>
-                      <h3 className="font-semibold">Visit Us</h3>
-                      <p className="text-muted-foreground">
-                        123 AI Innovation Hub<br />
-                        Tech District, CA 94105
-                      </p>
-                    </div>
-                  </div>
-                </CardContent>
-              </Card>
             </div>
           </div>
 
