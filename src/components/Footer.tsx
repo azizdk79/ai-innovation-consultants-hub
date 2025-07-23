@@ -22,8 +22,8 @@ const Footer = () => {
               into intelligent reality through expert consultation and innovative technology.
             </p>
             <div className="text-sm text-muted-foreground">
-              <p>Email: hello@tiai.com</p>
-              <p>Phone: +1 (555) 123-4567</p>
+              <p>Email: cto@tiai.com</p>
+              <p>Phone: +966 (50) 088-1999</p>
             </div>
           </div>
 
