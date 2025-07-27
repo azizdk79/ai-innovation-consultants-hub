@@ -1,3 +1,4 @@
+
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -44,7 +45,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-semibold">Call Us</h3>
-                      <p className="text-muted-foreground">+966 (50) 088-1999</p>
+                      <p className="text-muted-foreground">(+966) 50-088-1999</p>
                     </div>
                   </div>
                 </CardContent>

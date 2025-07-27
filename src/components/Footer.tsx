@@ -1,3 +1,4 @@
+
 import { Separator } from "@/components/ui/separator";
 
 const Footer = () => {
@@ -23,7 +24,7 @@ const Footer = () => {
             </p>
             <div className="text-sm text-muted-foreground">
               <p>Email: cto@tiai.tech</p>
-              <p>Phone: +966 (50) 088-1999</p>
+              <p>Phone: (+966) 50-088-1999</p>
             </div>
           </div>
 
