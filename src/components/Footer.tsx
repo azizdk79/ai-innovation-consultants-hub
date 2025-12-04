@@ -1,4 +1,5 @@
 import { Separator } from "@/components/ui/separator";
+import logo from "@/assets/logo.png";
 
 const Footer = () => {
   return (
@@ -9,7 +10,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center mb-4">
               <img 
-                src="/lovable-uploads/8a257c1b-5860-4eb7-bd18-88edc81dee3c.png" 
+                src={logo} 
                 alt="Technology Innovation for AI" 
                 className="h-8 w-8 mr-3"
               />
